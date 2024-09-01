@@ -1263,6 +1263,12 @@ margin-top: -50px;
 	
 }
 
+	.info-box {
+
+     padding:0; 
+  
+}
+
 .footer-last-option {
     flex-direction: column;
 }
@@ -1286,5 +1292,6 @@ margin-top: -50px;
    
 }
 }
+
 
 
