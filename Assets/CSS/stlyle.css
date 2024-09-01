@@ -1289,5 +1289,36 @@ margin-top: -50px;
 }
 }
 
+@media only screen and (max-width: 480px) {
+	.testimonial-title h2 {
+    font-size: 20px;   
+}
+	    .info-box {
+        padding: 7px;
+    }
+	#news .news-content {
+    padding: 6px;
+}
+	    .service-box {
+        width: 100%;
+      
+    }
+	#product .product-title h2 {
+    font-size: 25px;
+}
+
+	#popular .ct-title h2 {
+    font-size: 25px;
+}
+	.offer-box2 h2 {  
+    font-size: 35px;
+    line-height: 150%;
+}
+	.offer-box h2 {
+    font-size: 35px;
+   
+}
+}
+
 
 
